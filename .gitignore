@@ -1,0 +1,5 @@
+melanoma_cancer_dataset/
+skin-lesions/
+.venv/
+test_features.csv
+train_features.csv
